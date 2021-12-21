@@ -156,3 +156,5 @@ while running:
     
 pygame.time.delay(5000)
 pygame.quit()
+
+# https://nadocoding.tistory.com/87 '침팬치를 이겨라! 게임 참조'
