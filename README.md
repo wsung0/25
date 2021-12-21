@@ -2,7 +2,8 @@
   * #### 얼마 남지 않은 2021, 내 마지막 25살을 기념하기 위해 만든 게임.
 
 
-:small_orange_diamond: 25 이야기 
+
+:small_orange_diamond: ## 25 이야기 
 > 이 게임을 고안하게 된 이유는,
 > https://www.youtube.com/watch?v=JkNV0rSndJ0&feature=emb_imp_woyt
 > 이 영상 속 침팬치 녀석이 게임하는 모습을 보며
@@ -15,7 +16,7 @@
 >내가 침팬치인가 하는 생각이 들 수 있다,,,
 
 
-:small_orange_diamond: 게임 세줄 요약 :+1:
+:small_orange_diamond: ## 게임 세줄 요약 :+1:
 > - 💡 1부터 25까지의 숫자를 순서대로 입력한다.
 > - 💡 시간이 지남에 따라 25부터 숫자가 가려진다.
 > - 💡 레벨이 오를수록 가려지는 속도가 빨라진다. 
