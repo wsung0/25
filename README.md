@@ -1,7 +1,7 @@
 # :star2: 25
-#### 얼마 남지 않은 2021, 내 마지막 25살을 기념하기 위해 만든 게임.  
+ 얼마 남지 않은 2021, 내 마지막 25살을 기념하기 위해 만든 게임.  
 
-:small_orange_diamond: 25 이야기 
+:small_orange_diamond: #### 25 이야기 
 > 이 게임을 고안하게 된 이유는,
 > https://www.youtube.com/watch?v=JkNV0rSndJ0&feature=emb_imp_woyt  
 > 이 영상 속 침팬치가 게임하는 모습을 보며  
