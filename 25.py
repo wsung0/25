@@ -112,7 +112,7 @@ pygame.font.init()
 screen_width = 720 
 screen_height = 720 
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Memory Game")
+pygame.display.set_caption("25")
 game_font = pygame.font.SysFont("arialrounded", 100)
 
 start_button = pygame.Rect(0, 0, 120, 120)
