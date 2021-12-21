@@ -5,7 +5,7 @@
 
 :small_orange_diamond: 25 이야기 
 > 이 게임을 고안하게 된 이유는,
-> https://www.youtube.com/watch?v=JkNV0rSndJ0&feature=emb_imp_woyt
+> https://www.youtube.com/watch?v=JkNV0rSndJ0&feature=emb_imp_woyt  
 > 이 영상 속 침팬치가 게임하는 모습을 보며  
 > 정말 게임을 잘한다고 생각했고, 사람보다 더 잘하는 것 같다고 생각했다.  
 > 그래서 침팬치들이 못하도록 게임을 좀 더 높이고 싶었다.  
