@@ -30,10 +30,10 @@
        * 그리고 이 문제는 idx 값을 거꾸로 만들어주면서 해결이 되었다.    
        
 
-## 당신은 몇 LEVEL 인가요?   
+#### 당신은 몇 LEVEL 인가요?   
   
     
-
+  
 ## 게임 속 장면
 ![image](https://user-images.githubusercontent.com/76839243/146950079-a76d693a-65e7-4899-b2c2-a136f4e5a557.png)
 
