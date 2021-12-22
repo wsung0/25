@@ -36,3 +36,5 @@
 ![image](https://user-images.githubusercontent.com/76839243/146950079-a76d693a-65e7-4899-b2c2-a136f4e5a557.png)
 
 
+## 나의 기록
+<img width="681" alt="내 레벨" src="https://user-images.githubusercontent.com/76839243/147041061-c11bffdc-a571-47e8-ab12-966600ac8acb.PNG">
